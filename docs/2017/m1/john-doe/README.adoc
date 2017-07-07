@@ -1,0 +1,17 @@
+= Simulation of master student flow
+:page-root: ../../../../
+:page-permalink: /2017/m1/john-doe
+:page-layout: manual
+ifndef::env-github[:icons: font]
+ifndef::imagesdir[:imagesdir: ../../../../images/]
+ifndef::pilotsdir[:pilotsdir: ../../../../pilots/]
+include::../../../includes/header.adoc[]
+
+
+== Introduction
+
+blabla the subject
+
+== Theory
+
+This is my report blabla
