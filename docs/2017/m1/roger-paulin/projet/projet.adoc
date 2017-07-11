@@ -1,0 +1,41 @@
+Dans cette partie, nous allons voir deux projets réalisés par des étudiants en deuxième année de master CSMI. Le premier projet concerne les réseaux de neurones récurrents (RNN) réalisé par Marie HOUILLON et le second le logiciel DeepDream réalisé par Clément BUSCHE.
+
+==== Réseaux de neurones récurrents
+
+Intéressons nous dans un premier temps au projet sur les réseaux de neurones récurrents.
+Avant tout qu'est-ce qu'un réseau de neurones ?
+
+C'est un ensemble d'algorithmes qui cherche à imiter le fonctionnement de nos neurones, cependant un réseau de neurones traditionnel considère chaque entrée (par exemple un mot) indépendamment des autres. Prenons l'exemple d'un traducteur automatique, celui-ci va traduire mot à mot une phrase donnée sans considérer ce qui a déjà été traduit ce qui peut donner une traduction n'ayant peu ou pas de sens.
+Les réseaux de neurones sont souvent optimisés par des méthodes d'apprentissage (Machine learning), ces méthodes permettent à une machine d'évoluer et lui donnent la possibilité d'effectuer des tâches plus complexes.
+
+Les réseaux de neurones récurrents sont différents des réseaux plus traditionnels car ils prennent en considération les résultats obtenus précédemment et gèrent donc les dépendances. Si l'on reprend l'exemple du traducteur, il va cette fois-ci traduire le premier mot de la phrase puis lorsqu'il va traduire le second il prendra en considération la traduction du mot précédent et ainsi de suite. La méthode d'apprentissage utilisée est celle du Backpropagation through time (BPTT). Elle permet un apprentissage plus rapide pour les réseaux de neurones récurrents mais en contrepartie plus le nombre d'entrées sera important, plus le réseau aura du mal à gérer les dépendances.
+
+Une fois les réseaux de neurones récurrents étudiés, il fallait passer à l'implémentation. Elle a été effectué à l'aide de Tenserflow, qui est un outil de machine learning développé par Google.
+Suite à cette implémentation le projet s'est intéressé aux réseaux LSTM (Long Short Term Memory), c'est un réseau de neurones récurrents mais qui lui, excelle dans la mémorisation d'éléments que soit sur une longue ou courte durée.
+Le projet illustre des exemples d'utilisations d'un tel réseau. Par exemple la génération de texte, on donne comme entrée une phrase incomplète et l'objectif du réseau sera de trouver la séquence manquante.
+Pour conclure le projet, le réseau LSTM a été entrainé, à l'aide d'un modèle caractère par caractère, sur l'intégrale des fables de La Fontaine ainsi que des pièces de Molière.
+
+Le but était de lui faire générer des textes se rapprochant du style des deux auteurs. Les résultats ont donné lieu à un texte peu compréhensible. Cependant le réseau a réussi à générer un texte respectant la structure d'une pièce de théâtre, la plupart des mots appartenaient bien à la langue française et les verbes étaient correctement accordés.
+Puis l'entrainement s'est porté sur un modèle mot par mot avec la règle suivante : deux mots sont séparés par un espace. Ce modèle implique un vocabulaire plus grand que le modèle caractère par caractère.
+
+
+==== DeepDream
+
+Le second projet concerne DeepDream.
+Qu'est-ce que DeepDream ?
+
+DeepDream est un programme développé par Google permettant la visualisation par ordinateur, cette visualisation permet à une machine d'analyser des images. DeepDream utilise pour cela un réseau neuronal convolutif, la particularité d'un tel réseau est qu'il s'inspire de la partie du cerveau permettant le traitement des informations visuelles (le cortex visuel).
+
+L'objectif de base de DeepDream était de permettre la reconnaissance de motifs ou de visages dans une image. L'entreprise a ensuite remarqué, en appliquant l'algorithme une seconde fois sur une image, l'apparition de motifs : des paréidolie. Vulgairement, une paréidolie est une illusion qui va faire voir une forme connue là où il n'y en a pas, par exemple un nuage ressemblant à un animal ou bien un rocher ayant la forme d'un visage.
+
+Le projet illustre dans un premier temps les applications de DeepDream sur différentes images. Dans un second temps, des améliorations du logiciel sont proposées :
+
+* La méthode Laplacian pyramid decomposition est utilisée.
+
+* La deuxième méthode concerne l'augmentation de la taille des images.
+
+ 
+
+
+
+

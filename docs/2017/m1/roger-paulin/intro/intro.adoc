@@ -1,0 +1,28 @@
+== Introduction
+
+Le rapport va s’intéresser dans un premier temps à l’impact des mathématiques, puis va se porter sur Cemosis qui cherche à promouvoir cette discipline. Il va ensuite étudier quatre domaines des mathématiques en lien avec Cemosis en expliquant et illustrant ce que sont ces domaines.
+
+== Les mathématiques d'un point de vue international, national, régional et leur impact socio-économique
+
+Aujourd’hui les mathématiques sont présentes dans de nombreux secteurs que ce soit l’industrie, la finance, la robotique, les télécommunications, la santé ou bien d’autres encore.
+
+Cette diversité est ce qui fait sa force, les débouchés à la suite d’un cursus en mathématiques sont supérieures aux autres études et le fait de pouvoir travailler avec d’autres disciplines en fait un de ses principales atouts, car oui un mathématicien ne travaille pas seul.
+
+Cette présence est justifiée par le fait que les mathématiques sont plus ou moins essentielles au développement des nouvelles technologies et technologies clés. Cependant, cette importance n’est presque pas ou peu visible pour la plupart des gens. Même si les entreprises se rendent compte de l’utilité des mathématiciens pour leur développement, un problème subsiste pour elles ainsi que pour n’importe qui d’autre. Tout cela est du à un manque de visibilité dans la formation en mathématiques et cela dès le collège/lycée.
+
+Pour la plupart des collégiens/lycéens, il est difficile de savoir vers quelles métiers peuvent déboucher des études en mathématiques et ce que l’on y fait. De même pour les entreprises qui, du à un manque de lisibilité des plaquettes des cursus en étude supérieur, ne savent pas qui recruter. Le phénomène est encore plus important dans les TPE qui ne possèdent pas de pôle de Recherche et Développement.
+
+Mais malgré ces points négatifs, des solutions existent déjà et d'autres commencent à voir le jour et la visibilité des mathématiques va s’en voir grandement impacter. Tous ces points ont été relevé par une étude link:http://www.agence-maths-entreprises.fr/a/[d'AMIES} : EISEM.
+
+Parmi les solutions existant déjà, on peut trouver des structures se chargeant de promouvoir les mathématiques, nous allons nous intéresser à trois niveaux :
+européen, national et régional.
+
+Une des grosses structures européennes est link:http://www.eu-maths-in.eu/[eu-maths-in], elle cherche à améliorer les relations entre les mathématiciens, les PME et les grandes entreprises.
+Au niveau national, les structures comme link:http://www.agence-maths-entreprises.fr/a/[AMIES] pour la France ou link:https://www.komso.org/[KOMSO] pour l'Allemagne cherchent aussi à promouvoir les mathématiques et à créer des liens entre les mathématiciens et les entreprises.
+Le rapport EISEIM, rédigé par link:http://www.agence-maths-entreprises.fr/a/[AMIES], en est un bel exemple.
+Enfin à l'échelle régionale les structures comme link:http://www.maimosine.fr/[MaiMoSiNe] ou link:http://www.cemosis.fr/[Cemosis] se chargent de ce lien. Nous allons nous intéresser en particulier à link:http://www.cemosis.fr/[Cemosis].
+
+image::images/pyramide.jpg[]
+
+== Cemosis
+Tout d'abord qu'est-ce que Cemosis ?

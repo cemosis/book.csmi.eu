@@ -1,0 +1,28 @@
+= Rapport
+:page-root: ../../../../
+:page-permalink: /2017/m1/paulin_roger
+:page-layout: manual
+ifndef::env-github[:icons: font]
+ifndef::imagesdir[:imagesdir: ../../../../images/]
+ifndef::pilotsdir[:pilotsdir: ../../../../pilots/]
+include::../../../includes/header.adoc[]
+
+include::intro/intro.adoc[]
+include::cemosis/cemosis.adoc[]
+
+== Modélisation Simulation Optimisation (MSO)
+include::mso/mso.adoc[]
+
+== Signal et Image
+include::signal_image/signal_image.adoc[]
+
+include::projet/projet.adoc[]
+
+== Calcul Haute Performance (HPC)
+include::hpc/hpc.adoc[]
+
+== Traitement et fouilles des données
+include::traitement_et_fouille_donnees/data_mining.adoc[]
+
+
+
