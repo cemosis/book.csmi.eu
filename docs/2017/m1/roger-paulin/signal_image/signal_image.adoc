@@ -5,17 +5,17 @@ Le traitement du signal sert par exemple à analyser des sons afin d’utiliser 
 Il est possible de modifier les propriétés d’une image, on peut appliquer un contraste, détecter les bords ou la compresser.
 
 .Image originale
-image::images/lana-original.png[]
+image::lana-original.png[]
 
 .Image après compression
-Image::images/lana-compresse.png[]
+image::lana-compresse.png[]
 
 Exemple du radar :
 
 Le radar va envoyer une onde radio qui va se propager autour de lui, puis ces ondes vont être réfléchies sur les objets aux alentours et  ainsi permettre au radar de les localiser. Les radars entraı̂nent une nouvelle problématique où le traitement du signal va de nouveau intervenir :
 Comment rendre un objet invisible sur le radar ?
 
-image::images/radar.png[]
+image::radar.png[]
 
 
 Le traitement du signal et de l’image fait appel à différentes notions mathématiques et informatique comme :

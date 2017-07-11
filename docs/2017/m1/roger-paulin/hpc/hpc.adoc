@@ -1,14 +1,14 @@
 Le calcul haute performance fait appel aux supercalculateurs pour résoudre des problèmes nécessitant une grande puissance de calcul, elle se mesure en FLOPS (floating-point operation per second).
 
 .Supercalculateur Curie
-image::images/tgcc_curie.jpeg[]
+image::tgcc_curie.jpeg[]
 
 Le calcul haute performance est par exemple utilisé dans les prévisions
 météorologiques. Les calculs vont permettre d’obtenir
 une simulation des futurs changements météorologiques et ces calculs sont possibles en analysant toutes les données venant des stations météorologiques, des navires ou des satellites.
 
 
-image::images/avion.jpg[]
+image::avion.jpg[]
 
 Le calcul haute performance fait face à des contraintes techniques :
 * Les besoins en électricité d’un supercalculateur sont importants.

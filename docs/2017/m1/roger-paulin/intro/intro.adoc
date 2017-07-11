@@ -22,7 +22,7 @@ Au niveau national, les structures comme link:http://www.agence-maths-entreprise
 Le rapport EISEIM, rédigé par link:http://www.agence-maths-entreprises.fr/a/[AMIES], en est un bel exemple.
 Enfin à l'échelle régionale les structures comme link:http://www.maimosine.fr/[MaiMoSiNe] ou link:http://www.cemosis.fr/[Cemosis] se chargent de ce lien. Nous allons nous intéresser en particulier à link:http://www.cemosis.fr/[Cemosis].
 
-image::images/pyramide.jpg[]
+image::pyramide.jpg[]
 
 == Cemosis
 Tout d'abord qu'est-ce que Cemosis ?

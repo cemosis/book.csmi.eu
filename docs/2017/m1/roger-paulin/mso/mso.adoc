@@ -6,15 +6,15 @@ La MSO (modélisation simulation optimisation) est présente dans de nombreux pr
 
 * L’automobile, afin d’étudier les matériaux à utiliser en considérant le rapport qualité prix ou encore étudier la déformation d’une voiture durant un accident. Simuler le crash d’une voiture est moins coûteux que de réellement lancer une voiture contre un mur.
 
-image::images/voiture.png[]
+image::voiture.png[]
 
 * L’aéronautique, où il faut par exemple étudier l’impact d’un flux d’air sur les ailes d’un avion.
 
-image::images/avion.jpg[]
+image::avion.jpg[]
 
 * L’imagerie médicale, qui est un domaine où vont se mélanger traitement du signal et de l’image et MSO, afin de reconstituer le corps humain ou bien certaines parties. Cette reconstitution peut être utile pour la détection de tumeur par exemple.
 
-image::images/imagerie-medicale.png[]
+image::imagerie-medicale.png[]
 
 La MSO fait appel à des compétences en mathématiques et informatique comme :
 * Analyse numérique.

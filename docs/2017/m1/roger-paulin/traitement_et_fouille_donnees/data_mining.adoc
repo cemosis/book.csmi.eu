@@ -1,4 +1,4 @@
-image::images/data_mining.jpg[]
+image::data_mining.jpg[]
 
 Le traitement et la fouille des données consistent en l’extraction
 d’informations d’une base de données afin de les exploiter. Ce domaine a commencé à prendre de l’ampleur avec l’évolution des nouvelles technologies, d’internet et d’objets de plus en plus connectés.
@@ -7,7 +7,7 @@ Les données vont par exemple, dans le cadre du marketing, permettre de mieux ci
 
 Ces deux exemples utilisent la technique de scoring, elle permet de donner un score à un client ou un client potentiel en fonction de différentes données. Cependant le traitement et la fouilles des données ne se limite pas à ça, ils peuvent aussi servir à définir des modèles prédictifs sur la propagation d’une épidémie ou à utiliser les données déjà récoltées afin de déterminer ce qui a pu provoquer l’épidémie.
 
-image::images/images.png[]
+image::images.png[]
 
 Le traitement et la fouille de données utilisent différentes connaissances en mathématiques comme :
 * Probabilités.
