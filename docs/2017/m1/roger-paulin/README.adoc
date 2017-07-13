@@ -1,6 +1,6 @@
 = Rapport
 :page-root: ../../../../
-:page-permalink: /2017/m1/paulin_roger
+:page-permalink: /2017/m1/roger-paulin/
 :page-layout: manual
 ifndef::env-github[:icons: font]
 ifndef::imagesdir[:imagesdir: ../../../../images/]
