@@ -31,5 +31,54 @@ ifndef::env-github[===== link:/2017/m1/roger-paulin/[Roger-Paulin]]
 ifdef::env-github[===== link:docs/2017/m1/chifaa-dahik/README.adoc[Chifaa-dahik]]
 ifndef::env-github[===== link:/2017/m1/chifaa-dahik/[Chifaa-dahik]]
 
-==== Master 2
+
+== Contribute to this documentation
+
+. Create a fork on github of the repository https://github.com/cemosis/book.csmi.eu.
+(Top right button). It will create a repository in your account
+. Clone your own book.csmi.eu
+[source]
+----
+git clone https://github.com/<username>/book.csmi.eu
+----
+. Edit the book (./docs/*.adoc files) as usual (git add/commit/push).
+. Then create a Pull Request on github from your fork repository to the original one.
+
+
+:INFO: To pull for original repository
+link:https://help.github.com/articles/syncing-a-fork/[see the fork
+documentation]
+
+== Compiling the book
+
+==== Installing the toolchain
+
+install `ruby` and  `bundle`
+
+----
+# On MacOSX
+brew install ruby
+gem install rake bundle
+
+# on debian/ubuntu
+apt-get install ruby-bundler
+----
+
+then run `bundle` in the top level directory of the book
+----
+bundle
+----
+
+NOTE: it installs all the requirements
+
+then type
+
+----
+bundle exec jekyll serve
+----
+
+Or just `make serve`
+
+NOTE: it starts a link:http://127.0.0.1:4000/[local web server] on the
+port 4000 where you can read the book.
 
