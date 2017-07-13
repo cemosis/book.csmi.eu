@@ -1,0 +1,19 @@
+link:http://www.cemosis.fr[Cemosis] (Centre de Modélisation et de Simulation de Strasbourg) a été créé en 2013, il est composé de chercheurs et d’ingénieurs de l’IRMA ainsi que de collaborateurs extérieurs. Son but est de promouvoir la visibilité des mathématiques. Pour cela Cemosis travaille avec d'autres disciplines telle que la physique et la santé avec des projets comme link:http://www.cemosis.fr/projects/tonus[TONUS] et link:http://www.cemosis.fr/projects/vivabrain[Vivabrain].
+
+Le projet TONUS (Tokamak and numerical simulations) a pour but l’étude de la production d’énergie à l’aide de la fusion nucléaire au sein d’un tokamak. C’est un projet très important dans le développement d’ITER( International Thermonuclear Experimental Reactor).
+
+image::Tokamak.jpg[]
+
+Le projet Vivabrain est en lien avec la médecine. L’objectif est de permettre aux médecins de mieux comprendre les problèmes cérébrovasculaires (AVC, Alzheimer, ...) en générant et simulant le fonctionnement des vaisseaux sanguins du cerveau humain.
+
+image::vivabrain-1.jpg[]
+
+Cemosis cherche aussi à augmenter les interactions, entre chercheurs et entreprises, et travaille ainsi avec des entreprises régionales, nationales et mondiales sur des projets comme par exemple link:http://www.cemosis.fr/projects/gazomat/[Gazomat], Socomec, http://www.cemosis.fr/projects/holo3/[Holo3], link:http://www.cemosis.fr/projects/chorus-airbus/[Airbus], link:http://www.cemosis.fr/projects/es-classification-load-curves/[EDF], link:http://www.cemosis.fr/projects/plasticomnium-automotive/[Plastic Omnium] ou encore link:http://www.cemosis.fr/projects/mso4sc/[Atos].
+
+Cemosis est aussi en lien avec le master CSMI de l'université de Strasbourg, le master est axé sur quatre grands domaines :
+* Traitement du signal et analyse d’images.
+* Data mining.
+* Modélisation Simulation Optimisation (MSO).
+* Calcul Haute Performance (HPC).
+
+Nous allons par la suite expliquer ce que sont ces domaines et les illustrer à l'aide de projets réalisés dans le cadre du master CSMI. 

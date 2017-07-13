@@ -1,0 +1,36 @@
+Le traitement du signal et de l’image permet d’analyser, de traiter et d’interpréter des signaux. On peut trouver cette discipline dans de nombreux domaines comme la télécommunication, l’imagerie ou l’audio.
+
+Le traitement du signal sert par exemple à analyser des sons afin d’utiliser leurs propriétés, comme pour les radars qui permettent de déterminer la position, l’angle ou la vitesse d’un objet à l’aide d’onde radio. L’IRM en imagerie médicale fait aussi appel à cette discipline. 
+
+Il est possible de modifier les propriétés d’une image, on peut appliquer un contraste, détecter les bords ou la compresser.
+
+.Image originale
+image::lana-original.png[]
+
+.Image après compression
+image::lana-compresse.png[]
+
+Exemple du radar :
+
+Le radar va envoyer une onde radio qui va se propager autour de lui, puis ces ondes vont être réfléchies sur les objets aux alentours et  ainsi permettre au radar de les localiser. Les radars entraı̂nent une nouvelle problématique où le traitement du signal va de nouveau intervenir :
+Comment rendre un objet invisible sur le radar ?
+
+image::radar.png[]
+
+
+Le traitement du signal et de l’image fait appel à différentes notions mathématiques et informatique comme :
+* Algèbre linéaire.
+
+* Transformées de Fourier.
+
+* Analyse numérique.
+
+* Probabilités.
+
+* Statistiques.
+
+* Algorithmique.
+
+* Programmation.
+
+Exemples de projets :

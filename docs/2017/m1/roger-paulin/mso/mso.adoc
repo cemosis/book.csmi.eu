@@ -1,0 +1,30 @@
+La modélisation consiste en la traduction d’un problème réel sous forme de formules mathématiques. Ces problèmes peuvent être présent dans différents domaines comme la physique, la biologie, la finance, la médecine.
+
+Une fois l’étape de modélisation terminée, on passe à la simulation. Le but de simulation va être la mise en situation du problème afin de trouver une solution. L’optimisation va elle permettre d’utiliser le meilleur modèle possible, celui s’adaptant au mieux aux problèmes considérés. Par exemple optimiser la qualité d’un objet ainsi que son coût.
+
+La MSO (modélisation simulation optimisation) est présente dans de nombreux projets comme par exemple :
+
+* L’automobile, afin d’étudier les matériaux à utiliser en considérant le rapport qualité prix ou encore étudier la déformation d’une voiture durant un accident. Simuler le crash d’une voiture est moins coûteux que de réellement lancer une voiture contre un mur.
+
+image::voiture.png[]
+
+* L’aéronautique, où il faut par exemple étudier l’impact d’un flux d’air sur les ailes d’un avion.
+
+image::avion.jpg[]
+
+* L’imagerie médicale, qui est un domaine où vont se mélanger traitement du signal et de l’image et MSO, afin de reconstituer le corps humain ou bien certaines parties. Cette reconstitution peut être utile pour la détection de tumeur par exemple.
+
+image::imagerie-medicale.png[]
+
+La MSO fait appel à des compétences en mathématiques et informatique comme :
+* Analyse numérique.
+
+* Optimisation.
+
+* Résolution d’EDP.
+
+* Calcul parallèle.
+
+* Programmation.
+
+
