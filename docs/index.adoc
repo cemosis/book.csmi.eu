@@ -1,7 +1,6 @@
 = Documentation
 :imagesdir: images/
 :pilotsdir: docs/pilots/
-:deliverablesdir: docs/deliverables/
 include::docs/includes/header.adoc[]
 
 [TIP]
@@ -25,7 +24,12 @@ This book presents student's intership reports
 
 ==== Master 1
 
-===== link:2017/m1/john-doe/[john-doe]
+ifdef::env-github[===== link:2017/m1/roger-paulin/README.adoc[Roger-Paulin]]
+ifndef::env-github[===== link:/2017/m1/roger-paulin/[Roger-Paulin]]
+
+
+ifdef::env-github[===== link:2017/m1/chifaa-dahik/README.adoc[Chifaa-dahik]]
+ifndef::env-github[===== link:/2017/m1/chifaa-dahik/[Chifaa-dahik]]
 
 ==== Master 2
 
