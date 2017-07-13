@@ -20,18 +20,6 @@ See for example this link::https://raw.githubusercontent.com/MSO4SC/book.mso4sc.
 
 This book presents student's intership reports
 
-== Reports 2017
-
-==== Master 1
-
-ifdef::env-github[===== link:docs/2017/m1/roger-paulin/README.adoc[Roger-Paulin]]
-ifndef::env-github[===== link:/2017/m1/roger-paulin/[Roger-Paulin]]
-
-
-ifdef::env-github[===== link:docs/2017/m1/chifaa-dahik/README.adoc[Chifaa-dahik]]
-ifndef::env-github[===== link:/2017/m1/chifaa-dahik/[Chifaa-dahik]]
-
-
 == Contribute to this documentation
 
 . Create a fork on github of the repository https://github.com/cemosis/book.csmi.eu.
@@ -48,6 +36,8 @@ git clone https://github.com/<username>/book.csmi.eu
 :INFO: To pull for original repository
 link:https://help.github.com/articles/syncing-a-fork/[see the fork
 documentation]
+and also how to create a 
+link:https://help.github.com/articles/creating-a-pull-request/[Pull Request documentation]
 
 == Compiling the book
 
@@ -81,4 +71,15 @@ Or just `make serve`
 
 NOTE: it starts a link:http://127.0.0.1:4000/[local web server] on the
 port 4000 where you can read the book.
+
+== Reports 2017
+
+==== Master 1
+
+ifdef::env-github[===== link:docs/2017/m1/roger-paulin/README.adoc[Roger-Paulin]]
+ifndef::env-github[===== link:/2017/m1/roger-paulin/[Roger-Paulin]]
+
+
+ifdef::env-github[===== link:docs/2017/m1/chifaa-dahik/README.adoc[Chifaa-dahik]]
+ifndef::env-github[===== link:/2017/m1/chifaa-dahik/[Chifaa-dahik]]
 
