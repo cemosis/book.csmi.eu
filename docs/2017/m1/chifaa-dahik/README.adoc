@@ -1,6 +1,6 @@
 = Sujet du stage
 :page-root: ../../../../
-:page-permalink: /2017/m1/john-doe
+:page-permalink: /2017/m1/chifaa-dahik/
 :page-layout: manual
 ifndef::env-github[:icons: font]
 ifndef::imagesdir[:imagesdir: ../../../../images/]
