@@ -24,11 +24,11 @@ This book presents student's intership reports
 
 ==== Master 1
 
-ifdef::env-github[===== link:2017/m1/roger-paulin/README.adoc[Roger-Paulin]]
+ifdef::env-github[===== link:docs/2017/m1/roger-paulin/README.adoc[Roger-Paulin]]
 ifndef::env-github[===== link:/2017/m1/roger-paulin/[Roger-Paulin]]
 
 
-ifdef::env-github[===== link:2017/m1/chifaa-dahik/README.adoc[Chifaa-dahik]]
+ifdef::env-github[===== link:docs/2017/m1/chifaa-dahik/README.adoc[Chifaa-dahik]]
 ifndef::env-github[===== link:/2017/m1/chifaa-dahik/[Chifaa-dahik]]
 
 ==== Master 2
