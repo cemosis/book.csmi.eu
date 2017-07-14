@@ -1,6 +1,7 @@
 steps:
  - name: ':jekyll: :book:'
    command: .buildkite/steps/build.sh
+   branches: master
    env:
      PROJECT: book.csmi
  - name: ':rocket: :book:'
